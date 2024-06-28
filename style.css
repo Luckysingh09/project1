@@ -1,0 +1,45 @@
+.carousel-item img {
+    width: 100%;
+    height: 550px;
+  }
+
+  .carousel {
+    text-align: center;
+  }
+
+
+  .custom-bg {
+    background-color: #991F22; /* Red color */
+    color: white;
+  }
+
+
+  .custom-img {
+    margin: 10px 0;
+    max-width: 80px; /* Adjust the value as needed */
+    height: auto;
+  }
+  .logo{
+    
+    max-width: 40px; /* Adjust the value as needed */
+    height: auto;
+  }
+  .ani1 {
+    margin: 10px 0;
+   
+    max-width: 280px; /* Adjust the value as needed */
+    height: auto;
+  }
+  .ani2 {
+    margin: 10px 0;
+   
+    max-width: 280px; /* Adjust the value as needed */
+    height: auto;
+  }
+
+
+  .footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+  }
